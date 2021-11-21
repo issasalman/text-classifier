@@ -2,7 +2,7 @@
 
 
 ## REPO URL
-[REPO]()
+[REPO](https://github.com/issasalman/text-classifier)
 
 
 ## Pull request
